@@ -1,0 +1,13 @@
+.ElementOne {
+background-color: black;
+color: white;
+}
+
+.ElementTwo {
+background-color: yellow;
+}
+
+.both {
+font-size: 28px;
+font-family: Helvetica, Times New Roman, sans-serif;
+}
